@@ -2,7 +2,7 @@
  Final exam project
 
 
-## 1: Business Case
+## Business Case
 
 Question: Given stock market data from previous days, is it possible to predict what it will look like tomorrow evening?
 
