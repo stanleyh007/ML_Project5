@@ -1,4 +1,4 @@
-# ML_Project5 -  Final exam project
+# Project5 -  Final exam project
 
 
 ## Business Case
