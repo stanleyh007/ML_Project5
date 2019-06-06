@@ -14,5 +14,8 @@ Stocks is not that easy, just by using the prices of previous years to forecast 
 
 We want to add more features that can help the model to understand the impact from **REAL WORLD**. We will add more results to this case to compare and find out what is the best possible way to forecast a stock.
 
+## Binary classification
+It seems like Binary classification is the best possible way to forecast a stock, if it is up or down.
+
 ## Reproduce
 Project is made by using Jupyter notebook. Download it and run the ipynb file in Jupyter notebook.
